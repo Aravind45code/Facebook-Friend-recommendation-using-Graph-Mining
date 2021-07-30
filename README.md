@@ -12,6 +12,8 @@
      ->Analysed the no.of followers for each person and the number of persons they follow ,where i ended concluding very few no of people have large followers.(used concept of            indegree and outdegree for the calculation ).
      ->As the data given ,only depicts the case where there is an edge between two persons,it becomes imbalanced.So I formed edges form the given data where they dont have                connection between them to make it balanced(to perform classification).
      ->Then divided the data into train and test and now are ready for featurization and modelling.
+   
+   # FEATURIZATION
        
       
 

@@ -13,7 +13,7 @@
      ->As the data given ,only depicts the case where there is an edge between two persons,it becomes imbalanced.So I formed edges form the given data where they dont have connection between them to make it balanced(to perform classification).
      ->Then divided the data into train and test and now are ready for featurization and modelling.
    
-   #  FEATURIZATION
+   # FEATURIZATION
        
       
 
